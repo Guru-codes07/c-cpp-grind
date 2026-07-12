@@ -1,8 +1,6 @@
 /*Demonstrating the fundamental data types in c lang */
 #include<stdio.h>
 #include<stdbool.h>
-#include<limits.h>
-#include<float.h>
 
 int main(void)
 {
